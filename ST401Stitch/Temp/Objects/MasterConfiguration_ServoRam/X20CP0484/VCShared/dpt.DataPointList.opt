@@ -1,0 +1,26 @@
+<BuildOptions>
+  <BuildOption>
+    <SourceFile Value="C:/Users/Crims/OneDrive/Desktop/Programs/ST401Stitch/Physical/MasterConfiguration_ServoRam/X20CP0484/Cpu.sw" />
+    <Query Value="/ns:SwConfiguration/ns:TaskClass/*$$Name,Source" />
+    <Xml>
+      <Task Name="ModeContro" Source="ModeControl.ModeControl_ST.prg" />
+      <Task Name="AdhesiveCo" Source="Actuators.AdhesiveControl.prg" />
+      <Task Name="FoldPushCo" Source="Actuators.FoldPushControl.prg" />
+      <Task Name="VacuumCont" Source="Actuators.VacuumControl.prg" />
+      <Task Name="ServoRamHa" Source="ServoMotion.ServoRamHandler.prg" />
+      <Task Name="ServoFeedH" Source="ServoMotion.ServoFeedHandler.prg" />
+      <Task Name="ServoHoppe" Source="ServoMotion.ServoHopperHandler.prg" />
+      <Task Name="MotionHand" Source="ServoMotion.MotionHandler.prg" />
+      <Task Name="MappCalls" Source="ServoMotion.MappCalls.prg" />
+      <Task Name="SafetySamp" Source="AsSafetySolution.SafetySample.prg" />
+      <Task Name="FlexTest1" Source="Actuators.FlexTest.prg" />
+      <Task Name="Recipes" Source="Recipes.Recipes.prg" />
+      <Task Name="HMIControl" Source="HMI.HMIControl.prg" />
+      <Task Name="AlarmHandl" Source="AlarmControl.AlarmHandling.prg" />
+      <Task Name="FlexTest" Source="Actuators.NordsonComm.NordsonMBComm.prg" />
+      <Task Name="NordsonExt" Source="Actuators.NordsonComm.NordsonExtendedComm.prg" />
+      <Task Name="PatliteCom" Source="Stacklight.PatliteComm.prg" />
+      <Task Name="GluePattCt" Source="Recipes.GluePattCtrl.prg" />
+    </Xml>
+  </BuildOption>
+</BuildOptions>

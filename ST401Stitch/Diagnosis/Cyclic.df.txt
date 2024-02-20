@@ -1,0 +1,8 @@
+gHMI.StatusDatapoints.RecipeDialogSDP.0 2
+gHMI.StatusDatapoints.RecipeDialogSDP.0 2
+gHMI.StatusDatapoints.RecipeDialogSDP.0 2
+gHMI.StatusDatapoints.RecipeDialogSDP.0 2
+gHMI.StatusDatapoints.RecipeDialogSDP.0 2
+gHMI.StatusDatapoints.RecipeDialogSDP.0 2
+gHMI.ColorMapDatapoints.NordsonEditTemps.0 2
+gHMI.ColorMapDatapoints.NordsonEditTemps.0 2

@@ -1,0 +1,8 @@
+VAR
+	gAlarmXCore : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Desktop\Programs\ST401Stitch\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\AlarmCfg.mpalarmxcore" #2"1" #3"1"*)
+	gAlarmXHistory : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Desktop\Programs\ST401Stitch\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\AlrmHstCfg.mpalarmxhistory" #2"1" #3"1"*)
+	gRecipeXml : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Desktop\Programs\ST401Stitch\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\RcpCfg.mprecipexml" #2"1" #3"1"*)
+	mpServoFeed : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Desktop\Programs\ST401Stitch\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\ServoFeed.mpaxisbasic" #2"1" #3"1"*)
+	mpServoHopper : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Desktop\Programs\ST401Stitch\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\ServoHop.mpaxisbasic" #2"1" #3"1"*)
+	mpServoRam : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Desktop\Programs\ST401Stitch\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\ServoRam.mpaxisbasic" #2"1" #3"1"*)
+END_VAR
